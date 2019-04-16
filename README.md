@@ -1,4 +1,4 @@
-# Machine Learning Project: Predicting Claim Severity for Allstate Insurance (Kaggle Competition)
+# Machine Learning Project: Predicting Claim Severity for Allstate Insurance 
 
 The purpose of this project is to predict the continuous variable ‘loss’ which quantifies the severity of a claim to the insurance company. The information in this dataset has been completely stripped of its business context and simply contains both categorical and continuous attributes without any variable descriptions or hints. There are 116 categorical variables (named cat1-cat116) and 14 continuous attributes (named cont1-cont14).
 
